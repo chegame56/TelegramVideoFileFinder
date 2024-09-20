@@ -1,7 +1,3 @@
-Here’s the complete `README.md` that you can directly copy and paste into your GitHub repository:
-
----
-
 # Telegram Video File Finder
 
 Welcome to the **Telegram Video File Finder**! This is a simple Python tool with a GUI that helps you forward video files from Telegram groups and channels to your **Saved Messages**. I’m a **newbie** in programming, so this project is still in its early stages and may have room for improvements.
@@ -104,7 +100,3 @@ I’m still learning, so any contributions, feedback, or feature requests are gr
 
 ## License
 This project is licensed under the **MIT License**.
-
----
-
-Feel free to replace `link_to_releases` with the actual link to your releases section. Let me know if you need any further adjustments!
