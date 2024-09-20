@@ -14,6 +14,10 @@ I’d love to hear any suggestions or ideas you may have. Feel free to **fork** 
 - [License](#license)
 
 ## Features
+![image](https://github.com/user-attachments/assets/8cf56058-045b-4214-9041-a93ca96cfa2b)
+![image](https://github.com/user-attachments/assets/1d9577e3-c416-470b-b447-1f6051812084)
+
+
 - Forward video files from Telegram channels to your **Saved Messages**.
 - Simple and intuitive GUI interface.
 - Based on **Python** and **Pyrogram**.
