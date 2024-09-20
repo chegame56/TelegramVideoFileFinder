@@ -20,7 +20,7 @@ I’d love to hear any suggestions or ideas you may have. Feel free to **fork** 
 
 - Forward video files from Telegram channels to your **Saved Messages**.
 - Simple and intuitive GUI interface.
-- Based on **Python** and **Pyrogram**.
+- Based on **Python** and **Telethon**.
 
 *Note: This tool currently does not download videos; it only forwards them to your Saved Messages. However, I am working on developing a feature to download forwarded files directly into local storage.*
 
